@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Holi", "Holi\Holi.vcxproj", "{360C5350-ADA1-4A4D-8B77-C43DB3F3AF05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360C5350-ADA1-4A4D-8B77-C43DB3F3AF05}.Debug|x64.ActiveCfg = Debug|x64
+		{360C5350-ADA1-4A4D-8B77-C43DB3F3AF05}.Debug|x64.Build.0 = Debug|x64
+		{360C5350-ADA1-4A4D-8B77-C43DB3F3AF05}.Debug|x86.ActiveCfg = Debug|Win32
+		{360C5350-ADA1-4A4D-8B77-C43DB3F3AF05}.Debug|x86.Build.0 = Debug|Win32
+		{360C5350-ADA1-4A4D-8B77-C43DB3F3AF05}.Release|x64.ActiveCfg = Release|x64
+		{360C5350-ADA1-4A4D-8B77-C43DB3F3AF05}.Release|x64.Build.0 = Release|x64
+		{360C5350-ADA1-4A4D-8B77-C43DB3F3AF05}.Release|x86.ActiveCfg = Release|Win32
+		{360C5350-ADA1-4A4D-8B77-C43DB3F3AF05}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC51E8FF-DF63-4F74-8481-F8531F9E5156}
+	EndGlobalSection
+EndGlobal

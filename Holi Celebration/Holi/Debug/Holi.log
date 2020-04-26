@@ -1,0 +1,41 @@
+﻿  Holi.cpp
+c:\users\pc\source\repos\holi\holi\holi.cpp(31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(64): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(92): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(102): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(112): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(122): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(133): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(152): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(170): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(188): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(205): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(206): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(219): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(223): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(224): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(227): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pc\source\repos\holi\holi\holi.cpp(271): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\pc\source\repos\holi\holi\holi.cpp(281): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\pc\source\repos\holi\holi\holi.cpp(288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(289): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(296): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\pc\source\repos\holi\holi\holi.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(304): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pc\source\repos\holi\holi\holi.cpp(322): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\pc\source\repos\holi\holi\holi.cpp(325): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Holi.vcxproj -> C:\Users\PC\source\repos\Holi\Debug\Holi.exe
